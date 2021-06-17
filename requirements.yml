@@ -1,0 +1,2 @@
+- src: https://github.com/neuromics/ansible-role-linux-vm.git
+  name: neuromics.linux-vm
